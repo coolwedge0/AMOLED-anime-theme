@@ -1,9 +1,9 @@
 {
-  "name": "AMOLED anime theme",
-  "description": "AMOLED Rem theme",
+  "name": "AMOLED wedge's theme",
+  "description": "AMOLED theme",
   "authors": [
     {
-      "name": "wiwiichan",
+      "name": "Wedge",
       "id": "725075745671479296"
     }
   ],
@@ -235,7 +235,7 @@
     "PLUM_24": "#000000"
   },
   "background": {
-    "url": "https://raw.githubusercontent.com/wiwiichan/AMOLED-anime-theme/refs/heads/main/rem.jpg",
+    "url": "https://raw.githubusercontent.com/coolwedge0/AMOLED-anime-theme/refs/heads/main/02cd4ae491592508df49333a2c714290.jpg",
     "blur": 0.5,
     "alpha": 0.25,
     "size": "cover",
